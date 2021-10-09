@@ -35,7 +35,7 @@
 
 
 
-#include "pcg_variants.h"
+#include "include/pcg_variants.h"
 #include "entropy.h"                    /* Wrapper around /dev/random */
 #include "log.h"
 
